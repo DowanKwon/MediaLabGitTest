@@ -1,5 +1,6 @@
 ﻿  Main.cpp
   Sample_Draw.cpp
 C:\lab\GitTest\GitTest\MediaLabGitTest\Sample_Draw.cpp(13,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\lab\GitTest\GitTest\MediaLabGitTest\Sample_Draw.cpp(28,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   코드를 생성하고 있습니다...
   SharingProject.vcxproj -> C:\lab\GitTest\GitTest\MediaLabGitTest\Debug\SharingProject.exe
