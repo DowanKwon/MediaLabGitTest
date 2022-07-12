@@ -10,7 +10,7 @@ int main() {
 	
 	float buffX[8000];
 	float buffY[8000];
-	SD->SamplingSin(2000, 8000, buffX, buffY);
+	SD->SamplingCos(2000, 8000, buffX, buffY);
 	SD->WriteData(8000, buffX, buffY);
 
 	return 0;
