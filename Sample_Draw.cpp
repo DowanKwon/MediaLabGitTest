@@ -29,4 +29,12 @@ void Sample_Draw::SamplingCos(float freq, float length, float* bufferX, float* b
 	}
 }
 
+//Park
+void Sample_Draw::SamplingExp(float freq, float length, float* bufferX, float* bufferY) {
+	for (int i = 0; i < length; i++) {
+		bufferX[i] = (float)i / freq;
+		bufferY[i] = exp(i / freq);
+	}
+}
+
 	

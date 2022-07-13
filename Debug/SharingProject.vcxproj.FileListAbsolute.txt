@@ -1,1 +1,2 @@
 C:\lab\GitTest\GitTest\MediaLabGitTest\Debug\SharingProject.exe
+C:\MyProjects\Git\Lab\MediaLabGitTest\Debug\SharingProject.exe

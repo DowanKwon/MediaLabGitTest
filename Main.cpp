@@ -18,5 +18,8 @@ int main() {
 	SD->SamplingSin(2000, 8000, buffX, buffY);
 	SD->WriteData(8000, buffX, buffY);
 
+	SD->SamplingExp(2000, 8000, buffX, buffY);
+	SD->WriteData(8000, buffX, buffY);
+
 	return 0;
 }
